@@ -1,0 +1,1 @@
+docker build -t airsim/opengl:v1.0 .

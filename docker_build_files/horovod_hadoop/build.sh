@@ -1,0 +1,1 @@
+docker build -t yychrzh/horovod_hadoop:tf1.12.0-py35 .
